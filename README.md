@@ -1,4 +1,4 @@
-# College Student Financial Management App
+# College Student Intelligent Financial Management App
 
 ## About the Project
 This project aims to build a simplified and intelligent financial management application specifically designed for college students and the younger generation. The app focuses on helping users track expenses, manage budgets, and achieve savings goals through engaging features like gamification and personalized insights.
@@ -33,5 +33,5 @@ This project aims to build a simplified and intelligent financial management app
 ### Steps to Run Locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/financial-management-app.git
+   git clone https://github.com/wawawaooo/490capstone_pixiu
    cd financial-management-app
