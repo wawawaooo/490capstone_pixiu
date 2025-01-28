@@ -9,8 +9,8 @@ This project aims to build a simplified and intelligent financial management app
 - Subscription payment tracking and notifications
 - Gamified savings challenges and rewards
 - Privacy-first design with flexible data input options
-- Educational micro-courses for financial literacy
-
+- Unique customization features for college students and young adults
+- Data charts show visual data
 ---
 
 ## Codebase Overview
